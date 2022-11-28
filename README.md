@@ -52,8 +52,8 @@ You can click the Preview link to take a look at your changes.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Deepak-197&theme=red&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Deepak-197&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-197&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Deepak-197&theme=red&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-197&theme=red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 <a href="https://github.com/Deepak-197/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Deepak-197&bg_color=151515&color=FA8B00&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 ### ✍️ Dev Quote of the Day
