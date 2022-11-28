@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 
 # ☻ My Top Projects:
 <a href="https://github.com/Anandgupta09070/earsplitting-ring-5086" target="blank">
-   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=UnSplash%20Clone&color=000000&logo=Unsplash&logoColor=FFFFFF&label=" alt="Unsplash-Clone" />
+   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=UnSplash%20Clone&color=#845422&logo=Unsplash&logoColor=FFFFFF&label=" alt="Unsplash-Clone" />
 </a>
 <a href="https://github.com/GAUTAMDEORAZZ/project-GreekShoping" target="blank">
    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Geekbuying Clone&color=1BB91F&logo=Geekbuying&logoColor=FFFFFF&label=" alt="Geekbuying-Clone" />
