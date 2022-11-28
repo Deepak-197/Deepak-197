@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # 💫 About Me:
-<img align='center' src='[https://camo.githubusercontent.com/f6decabc6a509fd6d5d8a1053fedc3ad96458e223c6a9f8f312d125b6e833c7b/68747470733a2f2f692e696d6775722e636f6d2f6958754c3148472e706e67](https://camo.githubusercontent.com/d0179193dd9d1ded63f03b52c0334ac03417c7c73d6e6bb5c6fb3fa6cca736bd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f32343731312f73637265656e73686f74732f333838363030322f66616c636f6e5f70657273697374656e745f636f6e6e656374696f6e5f32782e676966)' alt='dev_img'/>
+<img align='center' src='https://camo.githubusercontent.com/d0179193dd9d1ded63f03b52c0334ac03417c7c73d6e6bb5c6fb3fa6cca736bd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f32343731312f73637265656e73686f74732f333838363030322f66616c636f6e5f70657273697374656e745f636f6e6e656374696f6e5f32782e676966' alt='dev_img'/>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=8230C6&width=435&lines=Hi!+It's+Deepak+Soni;Front+End+React+Web+Developer;)](https://git.io/typing-svg)
