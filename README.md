@@ -58,4 +58,6 @@ You can click the Preview link to take a look at your changes.
 
 ### ✍️ Dev Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-https://camo.githubusercontent.com/930100a4b48a3960e7608439d134541903b85f27b5ff86640851b332d054a429/68747470733a2f2f6d6174682e73756e2e61632e7a612f70726f64696e6765722f7468616e6b732e676966
+<p align="center">
+  <img width="200" height="100" src="https://math.sun.ac.za/prodinger/thanks.gif">
+</p>
