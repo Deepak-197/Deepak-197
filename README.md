@@ -40,15 +40,19 @@ You can click the Preview link to take a look at your changes.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23000000.svg?style=for-the-badge&logo=Bootstrap&logoColor=green)   ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![MaterialUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Nodejs](https://img.shields.io/badge/Nodejs-%23000000.svg?style=for-the-badge&logo=Nodejs&logoColor=#049852) ![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=Express&logoColor=blue)  ![Mongoose](https://img.shields.io/badge/Mongoose-%23000000.svg?style=for-the-badge&logo=Mongoose&logoColor=green) ![MERN](https://img.shields.io/badge/MERN-%23000000.svg?style=for-the-badge&logo=MERN&logoColor=green) ![MongoDB](https://img.shields.io/badge/MongoDB-%23000000.svg?style=for-the-badge&logo=MongoDB&logoColor=green)  
 
 # ☻ My Top Projects:
-<a href="https://github.com/Anandgupta09070/earsplitting-ring-5086" target="blank">
+<a href="https://github.com/Anandgupta09070/earsplitting-ring-5086" target="_blank">
    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=UnSplash%20Clone&color=845422&logo=Unsplash&logoColor=FFFFFF&label=" alt="Unsplash-Clone" />
 </a>
-<a href="https://github.com/GAUTAMDEORAZZ/project-GreekShoping" target="blank">
+<a href="https://github.com/GAUTAMDEORAZZ/project-GreekShoping" target="_blank">
    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Geekbuying Clone&color=1BB91F&logo=Geekbuying&logoColor=FFFFFF&label=" alt="Geekbuying-Clone" />
 </a>
-<a href="https://github.com/Deepak-197/Project-Sephora--C-W-Indivisual-Project-Sephora-June-2022-" target="blank">
+<a href="https://github.com/Deepak-197/Project-Sephora--C-W-Indivisual-Project-Sephora-June-2022-" target="_blank">
    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Shephora Womens Makeup Clone&color=FD3A5C&logo=BBW&logoColor=FFFFFF&label=" alt="Shephora-Clone" />
 </a>
+<a href="https://github.com/Deepak-197/JE-fit" target="_blank">
+   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=JEfit Fitness app Clone&color=FD3A5C&logo=BBW&logoColor=FFFFFF&label=" alt="JEfit-Clone" />
+</a>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Deepak-197&theme=red&hide_border=false&include_all_commits=true&count_private=true)
