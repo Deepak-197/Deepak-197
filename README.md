@@ -50,7 +50,7 @@ You can click the Preview link to take a look at your changes.
    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Shephora Womens Makeup Clone&color=FD3A5C&logo=BBW&logoColor=FFFFFF&label=" alt="Shephora-Clone" />
 </a>
 <a href="https://github.com/Deepak-197/JE-fit" target="_blank">
-   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=JEfit Fitness app Clone&color=FD3A5C&logo=BBW&logoColor=FFFFFF&label=" alt="JEfit-Clone" />
+   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=JEfit Fitness app Clone&color=FD3A5C&logo=BBW&logoColor=aqua&label=" alt="JEfit-Clone" />
 </a>
 
 
